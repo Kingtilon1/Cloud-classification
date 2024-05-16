@@ -28,7 +28,7 @@ This project involves developing a machine learning model to classify images of 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cloud-type-classification.git
+    git clone https://github.com/Kingtilon1/Cloud-classification.git
     cd cloud-type-classification
     ```
 2. Install required packages:
